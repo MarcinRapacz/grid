@@ -1,6 +1,6 @@
 {
-  "name": "starter-pack",
-  "version": "0.0.2",
+  "name": "grid",
+  "version": "1.0.0",
   "description": "",
   "main": "main.js",
   "dependencies": {
